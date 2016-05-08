@@ -1,0 +1,22 @@
+{
+  "name": "scomp",
+  "description": "spring component",
+  "main": "index.html",
+  "keywords": [
+    "git",
+    "bower"
+  ],
+  "authors": [
+    "spring"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
